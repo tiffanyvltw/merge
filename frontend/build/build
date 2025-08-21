@@ -1,3 +1,0 @@
-git add frontend/build
-git commit -m "Add built React app"
-git push
