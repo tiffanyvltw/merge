@@ -1,3 +1,7 @@
 cd frontend
 npm install
 npm run build
+
+git add build
+git commit -m "Add React build"
+git push
